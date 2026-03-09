@@ -1,2 +1,2 @@
 # SinFunction
-Sine function result with the usage of Taylor series 
+Result of the sine function using the Taylor series. 
